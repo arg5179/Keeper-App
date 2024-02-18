@@ -1,2 +1,2 @@
 # Keeper App
-[https://keeperlist.netlify.app/]
+https://keeperlist.netlify.app/
